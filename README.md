@@ -42,3 +42,13 @@ Projeto desenvolvido para a Atividade Prática 1 da disciplina de Inteligência 
 
 ```bash
 pip install numpy
+
+---
+
+## 👥 Integrantes da Equipe
+
+* **Claudio Roberto Andrade Araujo** - Matrícula: 2019039362
+* **Hector Fernandes Oliveira** - Matrícula: 2022013869
+* **Millena Gomes Andrade de Menezes Braga** - Matrícula: 2023041572
+* **Nickolas Ferreira Maiolino** - Matrícula: 20260000716
+* **Wesley Ferreira Costa** - Matrícula: 2023034442
