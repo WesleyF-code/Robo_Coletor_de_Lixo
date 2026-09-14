@@ -49,6 +49,3 @@ Projeto desenvolvido para a Atividade Prática 1 da disciplina de Inteligência 
 * **Millena Gomes Andrade de Menezes Braga** - Matrícula: 2023041572
 * **Nickolas Ferreira Maiolino** - Matrícula: 20260000716
 * **Wesley Ferreira Costa** - Matrícula: 2023034442
-
-```bash
-pip install numpy
