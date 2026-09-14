@@ -40,9 +40,6 @@ Projeto desenvolvido para a Atividade Prática 1 da disciplina de Inteligência 
 * Python 3.8+
 * Biblioteca `numpy`
 
-```bash
-pip install numpy
-
 ---
 
 ## 👥 Integrantes da Equipe
@@ -52,3 +49,6 @@ pip install numpy
 * **Millena Gomes Andrade de Menezes Braga** - Matrícula: 2023041572
 * **Nickolas Ferreira Maiolino** - Matrícula: 20260000716
 * **Wesley Ferreira Costa** - Matrícula: 2023034442
+
+```bash
+pip install numpy
